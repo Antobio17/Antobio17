@@ -7,8 +7,8 @@
 <p align="center">Soy <strong>Desarrollador Web Junior</strong>.<br />¡Aqui puedes ver todo mi contenido 👇!</p>
 <p align="center">
   <a href="https://instagram.com/antobio17" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="midu.dev" height="28px" width="28px" />
-  </a>
+      <img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="30" title="Instagram" />
+   </a>
 </p>
 
 
