@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋 -->
 <p align="center" width="300">
    <img align="center" width="200" src="https://github.com/Antobio17/Antobio17/blob/master/perfil-circulo.png" />
-   <h3 align="center">¡Hey 👋! Soy Antobio 👨🏻‍💻</h3>
+   <h3 align="center">¡Hey 👋! Soy Antobio 💻</h3>
 </p>
 
 <p align="center">Soy <strong>Desarrollador Web Junior</strong>.<br />¡Aqui puedes ver todo mi contenido 👇!</p>
