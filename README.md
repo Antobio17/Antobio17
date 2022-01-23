@@ -13,7 +13,7 @@
 
 Hi, I'm Antonio, a passionate self-taught web developer. I like to take great care in the experience, architecture, and code quality of the things I build.
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="280" />
   
 - 💼 Any freelance work? do reach [here](mailto:abhishek.naidu@cred.club)
 - 💬 Ask me about anything, I am happy to help
