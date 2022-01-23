@@ -13,7 +13,11 @@
 
 Hi, I'm Antonio, a passionate self-taught web developer. I like to take great care in the experience, architecture, and code quality of the things I build.
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="280" />
+<br />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=antobio17&show_icons=true&theme=gotham" alt="antobio17" />
+<br />
+<br />
+<!--   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="280" /> -->
   
 - 💼 Any freelance work? do reach [here](mailto:abhishek.naidu@cred.club)
 - 💬 Ask me about anything, I am happy to help
@@ -47,9 +51,9 @@ No Activity tracked this Week
 <!-- <a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a> -->
 
 <br />
-<br />
+<!-- <br /> -->
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=antobio17&show_icons=true&theme=gotham" alt="antobio17" />
+<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=antobio17&show_icons=true&theme=gotham" alt="antobio17" /> -->
 
 
 
