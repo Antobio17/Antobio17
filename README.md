@@ -47,7 +47,8 @@ Hi, I'm Antonio, a passionate self-taught web developer. I like to take great ca
 📊 **This week I spent my time on:**
 <!--START_SECTION:waka-->
 ```text
-PHP          8 hrs 34 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   99.95 % 
+PHP          5 hrs 15 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤   97.31 % 
+YAML         8 mins          ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.65 % 
 ```
 <!--END_SECTION:waka-->
 
