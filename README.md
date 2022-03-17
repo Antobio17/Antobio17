@@ -2,9 +2,9 @@
 <a href="https://www.linkedin.com/in/antonio-jim%C3%A9nez-rodr%C3%ADguez-098aa8205/">
   <img align="left" alt="Antobio17's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<!-- <a href="https://open.spotify.com/user/vv9yfh0fo2g9hhggq8y3irqxk?si=h9wk53fhQPqMV0SX-5hZVQ">
-  <img align="left" alt="Antobio17's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a> -->
+<a href="https://open.spotify.com/user/vv9yfh0fo2g9hhggq8y3irqxk?si=h9wk53fhQPqMV0SX-5hZVQ">
+  <img align="left" alt="Antobio17's Spotify" width="80px" src="spotify.svg" />
+</a>
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=antobio17.antobio17) -->
 
