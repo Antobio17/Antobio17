@@ -48,7 +48,8 @@ Hi, I'm Antonio, a passionate self-taught web developer. I like to take great ca
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+CSS    1 hr 13 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀   60.60 %
+HTML   47 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   39.40 %
 ```
 
 <!--END_SECTION:waka-->
