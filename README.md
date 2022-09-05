@@ -19,7 +19,7 @@ Hi, I'm Antonio, a passionate self-taught web developer. I like to take great ca
 <br />
 <!--   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="280" /> -->
   
-- 💼 Any freelance work? do reach [here](mailto:abhishek.naidu@cred.club)
+- 💼 Any freelance work? do reach [here](mailto:antoniojr997@gmail.com)
 - 💬 Ask me about anything, I am happy to help
 
 <br />
