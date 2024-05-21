@@ -1,7 +1,7 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
-<a href="https://www.linkedin.com/in/antonio-jim%C3%A9nez-rodr%C3%ADguez-098aa8205/">
+<!-- <a href="https://www.linkedin.com/in/antonio-jim%C3%A9nez-rodr%C3%ADguez-098aa8205/">
   <img align="left" alt="Antobio17's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+</a>-->
 <a href="https://open.spotify.com/user/vv9yfh0fo2g9hhggq8y3irqxk?si=h9wk53fhQPqMV0SX-5hZVQ">
   <img align="left" alt="Antobio17's Spotify" width="80px" src="spotify.svg" />
 </a>
